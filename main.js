@@ -22,7 +22,7 @@ function setup(){
 
 function preload(){
     interbgm = loadSound("inter.mp3");
-    starwarsbgm = loadSound("sw .mp3");
+    starwarsbgm = loadSound("sw.mp3");
 }
 
 function draw(){
